@@ -6,7 +6,8 @@ import java.util.List;
 public class L17 {
 
   public static void main(String[] args) {
-
+    String a = "\\r\\n";
+    System.out.println(a);
   }
 
   static class Solution {
